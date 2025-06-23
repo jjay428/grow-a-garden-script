@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jjay428/grow-a-garden-scripts/main/visual_pet_name.lua")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jjay428/grow-a-garden-scripts/main/visual_pet_name.lua"))()
